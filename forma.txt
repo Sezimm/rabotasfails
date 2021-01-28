@@ -1,0 +1,3 @@
+Login: fkjfjdk
+Password: 5551
+Put': /home/sezim/zadachi/rabota_s_files/foto.jpg
